@@ -11,11 +11,12 @@ tags:
     - web app
 skills:
     - UI Design
+    - SCSS
     - Angular 1
     - .NET
-    - SCSS
+    - PostgreSQL
 ---
 
 While living in Buffalo, NY (aka "Southern Canada"), I worked as lead user experience designer for a SaaS application called Outcomes. This product allows universities and colleges to define, track, and measure student learning outcomes offered coursework throughout their institution. This was my first time working internally on an enterprise application — simpling saying that I learned a lot would be an understatement. As part of a Scrum team of four, I iteratively sketched, prototyped, and tested to help this get this product from infancy to its first contracted customers.
 
-This application was built using Angular 1, .NET, and SCSS. I was responsible for the design of the UI and UX of the application and contributed to the interaction and styling via SCSS. I also worked with the product manager to define the product roadmap and prioritize features, and took time to audit and implement accessibility improvements.
+The tech stack for this application was Angular 1, with SCSS styles and a .NET backend. I was responsible for the design of the UI and UX of the application and contributed to the interaction and styling via SCSS. I also worked with the product manager to define the product roadmap and prioritize features, and took time to audit and implement accessibility improvements.

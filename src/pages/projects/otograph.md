@@ -13,10 +13,11 @@ tags:
 skills:
     - Vue.js
     - WordPress
-    -
+    - MySQL
     - Flask
     - PyTorch
     - Google Cloud Platform
+    - Ubuntu
 ---
 
 An interesting web application & project. I worked with a Washington, DC company to build a website and application to allow parents to upload photos of their child's inner ear and have its health assesed by a machine learning model created by another researched. The (very good) illustrations were contracted from a local artist.
